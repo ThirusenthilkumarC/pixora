@@ -1,4 +1,12 @@
+# 📸 Pixora
 
+<div align="center">
+
+<img src="client/public/logo.png" alt="Pixora Logo" width="180"/>
+
+# **Pixora**
+
+### **Share Moments. Build Connections.**
 
 **A modern, full-stack social media platform built with the MERN Stack.**
 
