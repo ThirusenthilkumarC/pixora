@@ -640,6 +640,6 @@ You are free to use, modify, and distribute the project according to the terms o
 
 **Share Moments. Build Connections.**
 
-**Made with ❤️ by Thirusenthilkumar C**
+** Made with ❤️ by Thirusenthilkumar C**
 
 </div>
