@@ -1,3 +1,4 @@
+<div align="center">
 # 📸 Pixora
 
 <div align="center">
