@@ -1,5 +1,3 @@
-
-
 <div align="center">
 
 <img src="client/public/logo.png" alt="Pixora Logo" width="180"/>
